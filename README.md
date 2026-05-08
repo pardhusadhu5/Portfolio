@@ -1,2 +1,2 @@
-# masterclass1
-This project classifies Twitter tweets into Positive, Negative, or Neutral sentiments using NLP and embedding techniques. Tweets are cleaned, converted into vector embeddings, and analyzed using machine learning models like Logistic Regression and XGBoost. The project includes EDA, confusion matrix, evaluation metrics, and custom predictions.
+# masterclass2
+This project builds a Semantic Search and RAG system for e-commerce product reviews using NLP, Sentence-Transformers, and FAISS. It retrieves results based on meaning instead of keywords by generating vector embeddings and similarity search. The system also generates natural language responses using Retrieval-Augmented Generation techniques.
